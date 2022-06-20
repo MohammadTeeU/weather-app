@@ -1,4 +1,4 @@
-# Random Image using c++/sfml
+# Weather app built using Flutter framework and Public Weather API
 
 ## idea of works
 The app works as shown in figure below, We can divied the app into two main parts are backend and frontend.
